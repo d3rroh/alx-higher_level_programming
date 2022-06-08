@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9a946d-4207-4661-a078-0c852731f1de" name="Changes" comment="" />
+    <list default="true" id="bd9a946d-4207-4661-a078-0c852731f1de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/101-square_matrix_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/101-square_matrix_map.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
