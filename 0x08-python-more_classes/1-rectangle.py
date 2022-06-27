@@ -4,6 +4,7 @@
 
 class Rectangle:
     """A class named Rectangle
+
     Attributes:
     attr1(width): width of rectangle
     attr2(height): height of rectangle
